@@ -1,13 +1,26 @@
 # CADSComms
 
-CADSWCFServer
+CADSWCFServer This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
 
-**Target:** v3.5
-## Contents
+**Source last updated:** 2008-09-09  
+**Language:** VB.NET  
+**Target:** v3.5  
+**Output:** Library
 
-- `CADSComms.sln`
-- `CADSWCFServer/CADSServer.vbproj`
-- `CADSComms/CADSClient.vbproj`
+## What it is
+
+CADSWCFServer This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+
+## Solution structure
+
+| Project | Language | Path |
+|---------|----------|------|
+| `CADSServer` | VB.NET | `CADSWCFServer/CADSServer.vbproj` |
+| `CADSClient` | VB.NET | `CADSComms/CADSClient.vbproj` |
+
+## How to open
+
+Open `CADSComms.sln` in Visual Studio.
 
 ## Attribution and provenance
 
