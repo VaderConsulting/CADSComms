@@ -1,6 +1,6 @@
 # CADSComms
 
-CADSWCFServer This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+CADSWCFServer Working copy from my Historical Dev folder.
 
 **Source last updated:** 2008-09-09  
 **Language:** VB.NET  
@@ -9,7 +9,7 @@ CADSWCFServer This is a historical working copy from Dave Robinson / VaderConsul
 
 ## What it is
 
-CADSWCFServer This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+CADSWCFServer Working copy from my Historical Dev folder.
 
 ## Solution structure
 
@@ -28,6 +28,7 @@ Open `CADSComms.sln` in Visual Studio.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `CADSComms`.
 - **Assembly company:** Stratatel
 - **Assembly copyright:** Copyright © Stratatel 2008
 
